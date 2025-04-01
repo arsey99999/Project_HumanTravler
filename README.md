@@ -1,6 +1,7 @@
 
 
-# Travel Video Search AI
+# Travel Video Search AI Service Project
+
 AI 기반으로 부산지역 여행 영상을 검색하는 프로젝트입니다.
 
 ## 주요 기능
