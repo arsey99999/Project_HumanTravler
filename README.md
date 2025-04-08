@@ -124,7 +124,7 @@ npm start
     </td>
     <td>
       <video width="400" controls>
-        <source src="pic/대시보드.mp4" type="video/mp4">
+        <source src="pic/대시보드.gif" type="video/gif">
         Your browser does not support the video tag.
       </video>
     </td>
