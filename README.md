@@ -90,31 +90,33 @@ npm start
 </table>
 
 ## 기능 시연 영상
-각 기능별 동영상을 통해 실제 서비스 작동 모습을 확인할 수 있습니다.
+
+각 기능별 동작 시연을 `.gif`로 확인하실 수 있습니다.  
+GitHub에서 바로 재생되며, 별도 클릭 없이 자동으로 동작 모습을 보여줍니다.
 
 <table>
   <tr>
     <td><strong>1. 메인페이지</strong></td>
-    <td><strong>2. 검색 Top5</strong></td>
+    <td><strong>2. 타임스탬프</strong></td>
   </tr>
   <tr>
     <td><img src="pic/메인페이지.gif" alt="메인페이지 시연" width="400"></td>
+    <td><img src="pic/타임스탬프.gif" alt="타임스탬프 시연" width="400"></td>
+  </tr>
+  <tr>
+    <td><strong>3. 검색 Top5</strong></td>
+    <td><strong>4. 상세페이지</strong></td>
+  </tr>
+  <tr>
     <td><img src="pic/검색_top5.gif" alt="검색 Top5 시연" width="400"></td>
-  </tr>
-  <tr>
-    <td><strong>3. 상세페이지</strong></td>
-    <td><strong>4. 대시보드</strong></td>
-  </tr>
-  <tr>
     <td><img src="pic/상세페이지.gif" alt="상세페이지 시연" width="400"></td>
-    <td><img src="pic/대시보드.gif" alt="대시보드 시연" width="400"></td>
   </tr>
   <tr>
-    <td><strong>5. 타임스탬프</strong></td>
+    <td><strong>5. 대시보드</strong></td>
     <td></td>
   </tr>
   <tr>
-    <td><img src="pic/타임스탬프.gif" alt="타임스탬프 시연" width="400"></td>
+    <td><img src="pic/대시보드.gif" alt="대시보드 시연" width="400"></td>
     <td></td>
   </tr>
 </table>
