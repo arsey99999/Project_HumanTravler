@@ -98,48 +98,23 @@ npm start
     <td><strong>2. 검색 Top5</strong></td>
   </tr>
   <tr>
-    <td>
-      <video width="400" controls>
-        <source src="pic/메인페이지.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="400" controls>
-        <source src="pic/검색_top5.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
+    <td><img src="pic/메인페이지.gif" alt="메인페이지 시연" width="400"></td>
+    <td><img src="pic/검색_top5.gif" alt="검색 Top5 시연" width="400"></td>
   </tr>
   <tr>
     <td><strong>3. 상세페이지</strong></td>
     <td><strong>4. 대시보드</strong></td>
   </tr>
   <tr>
-    <td>
-      <video width="400" controls>
-        <source src="pic/상세페이지.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="400" controls>
-        <source src="pic/대시보드.gif" type="video/gif">
-        Your browser does not support the video tag.
-      </video>
-    </td>
+    <td><img src="pic/상세페이지.gif" alt="상세페이지 시연" width="400"></td>
+    <td><img src="pic/대시보드.gif" alt="대시보드 시연" width="400"></td>
   </tr>
   <tr>
     <td><strong>5. 타임스탬프</strong></td>
     <td></td>
   </tr>
   <tr>
-    <td>
-      <video width="400" controls>
-        <source src="pic/타임스탬프.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
+    <td><img src="pic/타임스탬프.gif" alt="타임스탬프 시연" width="400"></td>
     <td></td>
   </tr>
 </table>
