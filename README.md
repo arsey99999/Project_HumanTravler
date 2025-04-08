@@ -89,6 +89,62 @@ npm start
   </tr>
 </table>
 
+## 기능 시연 영상
+각 기능별 동영상을 통해 실제 서비스 작동 모습을 확인할 수 있습니다.
+
+<table>
+  <tr>
+    <td><strong>1. 메인페이지</strong></td>
+    <td><strong>2. 검색 Top5</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <video width="400" controls>
+        <source src="pic/메인페이지.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="400" controls>
+        <source src="pic/검색_top5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3. 상세페이지</strong></td>
+    <td><strong>4. 대시보드</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <video width="400" controls>
+        <source src="pic/상세페이지.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="400" controls>
+        <source src="pic/대시보드.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>5. 타임스탬프</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <video width="400" controls>
+        <source src="pic/타임스탬프.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
 ## 팀 소개
 -팀명 : 휴먼원정대
 -팀원 : 이준혁(팀장), 배휘호, 이기성, 김민석
